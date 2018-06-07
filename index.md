@@ -1,5 +1,5 @@
 # CIT Code Portfolio Page
-! [Matthew Beck](/images/IMG_3424.jpg)
+![Matthew Beck](/images/IMG_3424.jpg)
 ## education.github.com
 We are using [Github's education services](https://education.github.com/) to host repos for webDev courses.
 
