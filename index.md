@@ -24,3 +24,6 @@ In the second year of the minor, students study the following topics: database d
 * CIT 383: Networks & CyberSecurity
 
 # My CIT Projects
+* [CIS 110 Projects](http://pages.uoregon.edu/mbeck2/110/)
+* [CIS 111 Projects](http://pages.uoregon.edu/mbeck2/111/)
+* CIT 281 Projects
