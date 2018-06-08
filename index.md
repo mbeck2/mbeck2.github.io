@@ -27,3 +27,11 @@ In the second year of the minor, students study the following topics: database d
 * [CIS 110 Projects](http://pages.uoregon.edu/mbeck2/110/)
 * [CIS 111 Projects](http://pages.uoregon.edu/mbeck2/111/)
 * CIT 281 Projects
+  * P1 Project Page (Github)
+  * P2 Project page (Github)
+  * P3 Project page (Github)
+  * [P4 Project Page](https://uo-cit.github.io/project-4-mbeck2/)
+  * P5 Project Page (Github)
+* CIT 381 Projects
+* CIT 382 Projects
+* CIT 383 Projects
